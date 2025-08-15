@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite --port 3000"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "socket.io-client": "^4.7.3"
+  }
+}
